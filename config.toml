@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "zh-cn"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = "山一程，水一程，身向榆关那畔行，夜深千帐灯。 风一更，雪一更，聒碎乡心梦不成，故园无此声。"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -35,7 +35,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 prefix = ""
 holder = "短歌"
 startYear = "2019"
-suffix = "<a href='http://www.beian.miit.gov.cn/'>皖ICP备16006025号</a>"
+suffix = "[皖ICP备16006025号](http://www.beian.miit.gov.cn/)"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
