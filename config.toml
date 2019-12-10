@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://www.duange.net"
 title = "短歌"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -19,7 +19,7 @@ pygmentsCodefences = true
 enableEmoji = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 
 [params.info]
 description = "Minimalist theme for Hugo"
@@ -33,9 +33,9 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
-startYear = "2017"
-suffix = ""
+holder = "短歌"
+startYear = "2019"
+suffix = "<a href='http://www.beian.miit.gov.cn/'>皖ICP备16006025号</a>"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -138,7 +138,7 @@ hrefTargetBlank = true
 
 [languages]
 # edit this block for your own language
-[languages.en]
-lang = "en"
-languageName = "English"
+[languages.zh-cn]
+lang = "zh-cn"
+languageName = "简体中文"
 weight = 1
